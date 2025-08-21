@@ -1,1 +1,1 @@
-Open google.com in browser
+Open wikipedia.org in browser
