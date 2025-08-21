@@ -1,1 +1,1 @@
-Open example.com in browser
+Open developer-stage.adobe.com/console. Go to APIs and services page.
