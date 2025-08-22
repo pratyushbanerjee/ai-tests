@@ -1,1 +1,1 @@
-Open developer-stage.adobe.com/console. Find the "Resources" section on the page. In this section there are different headers and links. Click every link and when done, return to the first tab.
+Open developer-stage.adobe.com/console. Find the "Resources" section on the page. In this section there are different headers and links. Click the first link.
