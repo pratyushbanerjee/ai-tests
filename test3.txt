@@ -1,0 +1,1 @@
+Go to Activity log page. Click the export csv file button. Was the file downloaded successfully?
