@@ -1,1 +1,1 @@
-Go to Activity log page. Click the export csv file button. Was the file downloaded successfully?
+Go to Projects page. Open a project. Open Activity log. Click the export csv file button. Was the file downloaded successfully?

@@ -1,1 +1,1 @@
-Edit a project and change the Project title. Can you confirm that the title has been changed and what the final title is?
+Go to Projects page. Open a project. Edit the project and change the Project title. Can you confirm that the title has been changed and what the final title is?
